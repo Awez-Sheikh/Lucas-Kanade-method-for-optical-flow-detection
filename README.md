@@ -10,3 +10,4 @@ consecutive frames, i.e., the brightness of the object remains constant as it mo
 ● Small motion: The displacement of pixels between the two frames is small, which means
 the optical flow can be approximated using a linear model.
 ● Spatial coherence: Neighboring pixels have similar motion.
+
